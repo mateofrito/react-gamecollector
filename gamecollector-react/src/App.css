@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Oswald|Press+Start+2P");
 .App {
   text-align: center;
 }
@@ -17,6 +18,18 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.header__title {
+  font-family: "Press Start 2P", cursive;
+}
+
+.header {
+  font-family: "Press Start 2P", cursive;
+}
+
+.navButtons {
+  font-family: "Oswald", sans-serif;
 }
 
 .App-link {
